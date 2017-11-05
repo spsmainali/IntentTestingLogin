@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentTesting</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_two">ActivityTwo</string>
+    <string name="btnNxt">Log Me in</string>
+    <string name="btnPrev">Logout</string>
+</resources>
